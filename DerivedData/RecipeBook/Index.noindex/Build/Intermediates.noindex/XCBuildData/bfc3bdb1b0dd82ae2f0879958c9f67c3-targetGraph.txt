@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+RecipeBook in RecipeBook, no dependencies
+RecipeBook in RecipeBook, no dependencies
+RecipeBookTests in RecipeBook, depends on:
+RecipeBook in RecipeBook (explicit)
+RecipeBookTests in RecipeBook, depends on:
+RecipeBook in RecipeBook (explicit)
+RecipeBookTests in RecipeBook, no dependencies
+RecipeBookUITests in RecipeBook, depends on:
+RecipeBook in RecipeBook (explicit)
+RecipeBookUITests in RecipeBook, depends on:
+RecipeBook in RecipeBook (explicit)
+RecipeBookUITests in RecipeBook, no dependencies

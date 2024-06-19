@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'RecipeBookUITests' in project 'RecipeBook' (no dependencies)
+Target 'RecipeBookUITests' in project 'RecipeBook'
+➜ Explicit dependency on target 'RecipeBook' in project 'RecipeBook'
+Target 'RecipeBookUITests' in project 'RecipeBook'
+➜ Explicit dependency on target 'RecipeBook' in project 'RecipeBook'
+Target 'RecipeBookTests' in project 'RecipeBook' (no dependencies)
+Target 'RecipeBookTests' in project 'RecipeBook'
+➜ Explicit dependency on target 'RecipeBook' in project 'RecipeBook'
+Target 'RecipeBookTests' in project 'RecipeBook'
+➜ Explicit dependency on target 'RecipeBook' in project 'RecipeBook'
+Target 'RecipeBook' in project 'RecipeBook' (no dependencies)
+Target 'RecipeBook' in project 'RecipeBook' (no dependencies)

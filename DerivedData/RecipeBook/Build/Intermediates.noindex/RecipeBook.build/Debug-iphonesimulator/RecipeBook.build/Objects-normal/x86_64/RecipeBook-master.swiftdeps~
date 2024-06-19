@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "1c7c3606672e269e42e62ecd649d736782cd17f6a84819b75ec1d2743dcdc510"
+build_start_time: [1718701961, 449934959]
+build_end_time: [1718701961, 708519935]
+inputs:
+  "/Users/mac004/Downloads/1871115/RecipeBook/RecipeBook/AppDelegate.swift": !private [1718612636, 0]
+  "/Users/mac004/Downloads/1871115/RecipeBook/RecipeBook/ModelData.swift": !private [1718686040, 650690555]
+  "/Users/mac004/Downloads/1871115/RecipeBook/RecipeBook/Recipe.swift": !private [1718701579, 637802124]
+  "/Users/mac004/Downloads/1871115/RecipeBook/RecipeBook/SceneDelegate.swift": !private [1718612636, 0]
+  "/Users/mac004/Downloads/1871115/RecipeBook/RecipeBook/ViewController.swift": !private [1718701579, 605190753]

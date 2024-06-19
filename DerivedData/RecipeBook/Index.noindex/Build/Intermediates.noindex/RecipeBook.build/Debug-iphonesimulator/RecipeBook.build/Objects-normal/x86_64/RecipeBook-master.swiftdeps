@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "27808084e9becdef26bb3cd5f79ff76c7336e4b99fd1d5bc466e7afde73afa1b"
+build_start_time: [1718612647, 511088000]
+build_end_time: [1718612649, 71392000]
+inputs:
+  ? "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1718612644, 85446858]
+  "/Users/mac033/Desktop/1871115/RecipeBook/RecipeBook/AppDelegate.swift": [1718612637, 270228263]
+  "/Users/mac033/Desktop/1871115/RecipeBook/RecipeBook/SceneDelegate.swift": [1718612637, 273744778]
+  "/Users/mac033/Desktop/1871115/RecipeBook/RecipeBook/ViewController.swift": [1718612637, 275861046]

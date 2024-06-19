@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/RecipeBook-master.dia",
+    "emit-module-dependencies" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/RecipeBook-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/RecipeBook-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/RecipeBook-master.swiftdeps"
+  },
+  "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/mac033/Desktop/1871115/RecipeBook/RecipeBook/AppDelegate.swift" : {
+    "const-values" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/mac033/Desktop/1871115/RecipeBook/RecipeBook/SceneDelegate.swift" : {
+    "const-values" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/SceneDelegate.d",
+    "diagnostics" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/SceneDelegate.dia",
+    "index-unit-output-path" : "/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/SceneDelegate.o",
+    "llvm-bc" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/SceneDelegate.bc",
+    "object" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/mac033/Desktop/1871115/RecipeBook/RecipeBook/ViewController.swift" : {
+    "const-values" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/ViewController.d",
+    "diagnostics" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/ViewController.dia",
+    "index-unit-output-path" : "/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/ViewController.o",
+    "llvm-bc" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/ViewController.bc",
+    "object" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/ViewController.o",
+    "swift-dependencies" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex/RecipeBook.build/Debug-iphonesimulator/RecipeBook.build/Objects-normal/x86_64/ViewController~partial.swiftmodule"
+  }
+}

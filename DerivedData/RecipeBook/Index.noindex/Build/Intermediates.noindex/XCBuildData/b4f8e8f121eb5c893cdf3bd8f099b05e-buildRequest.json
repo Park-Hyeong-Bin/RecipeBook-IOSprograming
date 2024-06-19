@@ -1,0 +1,66 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "4dac5fd4ef90ad964ba1bfcc4fbaac3987bf38b63c8ee06be668cafcdaf52585"
+    }
+  ],
+  "containerPath" : "/Users/mac004/Downloads/1871115/RecipeBook/RecipeBook.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos16.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/mac004/Downloads/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/mac004/Downloads/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/mac004/Downloads/1871115/RecipeBook/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/mac004/Downloads/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mac004/Downloads/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/mac004/Downloads/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/mac004/Downloads/1871115/RecipeBook/DerivedData/RecipeBook/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

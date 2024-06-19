@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Intermediates.noindex/RecipeBook.build/Debug-iphoneos/RecipeBookUITests.build/Objects-normal/arm64/RecipeBookUITests-master.d",
+    "diagnostics" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Intermediates.noindex/RecipeBook.build/Debug-iphoneos/RecipeBookUITests.build/Objects-normal/arm64/RecipeBookUITests-master.dia",
+    "emit-module-dependencies" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Intermediates.noindex/RecipeBook.build/Debug-iphoneos/RecipeBookUITests.build/Objects-normal/arm64/RecipeBookUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Intermediates.noindex/RecipeBook.build/Debug-iphoneos/RecipeBookUITests.build/Objects-normal/arm64/RecipeBookUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Intermediates.noindex/RecipeBook.build/Debug-iphoneos/RecipeBookUITests.build/Objects-normal/arm64/RecipeBookUITests-master.swiftdeps"
+  },
+  "/Users/mac033/Desktop/1871115/RecipeBook/RecipeBookUITests/RecipeBookUITests.swift" : {
+
+  },
+  "/Users/mac033/Desktop/1871115/RecipeBook/RecipeBookUITests/RecipeBookUITestsLaunchTests.swift" : {
+
+  }
+}

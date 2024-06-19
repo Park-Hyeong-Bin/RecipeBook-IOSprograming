@@ -1,0 +1,54 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "4dac5fd4ef90ad964ba1bfcc4fbaac3987bf38b63c8ee06be668cafcdaf52585"
+    },
+    {
+      "guid" : "4dac5fd4ef90ad964ba1bfcc4fbaac3983ab58a3d1e21c9d16081dd2228ee381"
+    },
+    {
+      "guid" : "4dac5fd4ef90ad964ba1bfcc4fbaac39979d6419c328f8b1d4eabe3f8f7edbc3"
+    }
+  ],
+  "containerPath" : "/Users/mac033/Desktop/1871115/RecipeBook/RecipeBook.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Build/Products",
+      "pchPath" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

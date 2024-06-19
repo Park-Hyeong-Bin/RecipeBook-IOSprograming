@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Intermediates.noindex/RecipeBook.build/Debug-maccatalyst/RecipeBookTests.build/Objects-normal/x86_64/RecipeBookTests-master.d",
+    "diagnostics" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Intermediates.noindex/RecipeBook.build/Debug-maccatalyst/RecipeBookTests.build/Objects-normal/x86_64/RecipeBookTests-master.dia",
+    "emit-module-dependencies" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Intermediates.noindex/RecipeBook.build/Debug-maccatalyst/RecipeBookTests.build/Objects-normal/x86_64/RecipeBookTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Intermediates.noindex/RecipeBook.build/Debug-maccatalyst/RecipeBookTests.build/Objects-normal/x86_64/RecipeBookTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac033/Desktop/1871115/RecipeBook/DerivedData/RecipeBook/Index.noindex/Build/Intermediates.noindex/RecipeBook.build/Debug-maccatalyst/RecipeBookTests.build/Objects-normal/x86_64/RecipeBookTests-master.swiftdeps"
+  },
+  "/Users/mac033/Desktop/1871115/RecipeBook/RecipeBookTests/RecipeBookTests.swift" : {
+
+  }
+}
